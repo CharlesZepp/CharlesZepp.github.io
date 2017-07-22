@@ -1,12 +1,8 @@
-## Welcome to GitHub Site
+## Welcome to my Project Site
+Informations Systems Student at University of Maryland Baltimore County with a strong passion in Web Development
 
-You can use the [editor on GitHub](https://github.com/CharlesZepp/CharlesZepp.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Current Project
+I am currently pursuing a Full Stack Web Develoment Cert. at [FreeCodeCamp](https://www.freecodecamp.org/)
 
 ```markdown
 Syntax highlighted code block
