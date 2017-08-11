@@ -23,10 +23,10 @@ Web page that displays a random quote and gives the user the option to tweet sai
 var coffee = new Coffee();
 
 while(coding){
-	if (coffee.empty){
-	  coffee.refill();
-	} else {
-	  	coffee.drink();
-	}
+ if (coffee.empty){
+      coffee.refill();
+    } else {
+        coffee.drink();
+    }
 }
 ```
