@@ -1,9 +1,22 @@
-## Welcome to my Project Site
+# Welcome to my Project Site
 Informations Systems Student at University of Maryland Baltimore County with a strong passion in Web Development
-I am currently pursuing a Full Stack Web Develoment Cert. at [FreeCodeCamp](https://www.freecodecamp.org/)
+I am currently pursuing a Full Stack Web Develoment Cert. at [FreeCodeCamp](https://www.freecodecamp.org/) and advancing
+my Java algorithm development through Algorithms 1 at Princeton University through [Coursera](https://www.coursera.org/)
 
-### Current Project
+## Projects
+Here you can view some projects I am currenty working on or have completed. My projects through [FreeCodeCamp](https://www.freecodecamp.org/) can be interacted with through my CodePen account [here](https://codepen.io/charleszepp/) and code can/ should be viewed through [here](https://github.com/CharlesZepp/CodeCampProjects)
+### Currently Working On
+I am currently working on a web app using Twitchtv JSON API
+### Recently Completed
+**Wikipedia Search App**
+Uses Wikipedia's API to allow a user to search for wiki-pages and view the search results. The user also has the option to view a random wiki-page.
+![Image](https://swe.umbc.edu/~zepp1/is448/codecamp_images/wiki-search.png)
+Interact [here](https://codepen.io/charleszepp/full/wqqGqP)
 
+**Weather App**
+Uses bascic weather API to display users current weather, utilizing HTML5 geolocation
+![Image](https://swe.umbc.edu/~zepp1/is448/codecamp_images/weather.png)
+Interact [here](https://codepen.io/charleszepp/full/XaWWwO)
 
 ```markdown
 Syntax highlighted code block
