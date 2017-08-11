@@ -3,6 +3,18 @@ Informations Systems Student at University of Maryland Baltimore County with a s
 I am currently pursuing a Full Stack Web Develoment Cert. at [FreeCodeCamp](https://www.freecodecamp.org/) and advancing
 my Java algorithm development through Algorithms 1 at Princeton University through [Coursera](https://www.coursera.org/)
 
+```markdown
+2b || !2b
+//that is the question
+
+var coffee;
+
+if (coffee.isEmpty()){
+
+	coffee.refill()
+}
+```
+
 ## Projects
 Here you can view some projects I am currenty working on or have completed. My projects through [FreeCodeCamp](https://www.freecodecamp.org/) can be interacted with through my CodePen account [here](https://codepen.io/charleszepp/) and code can/ should be viewed through [here](https://github.com/CharlesZepp/CodeCampProjects)
 ### Currently Working On
@@ -13,9 +25,12 @@ Uses Wikipedia's API to allow a user to search for wiki-pages and view the searc
 [![Image](https://swe.umbc.edu/~zepp1/is448/codecamp_images/wiki-search.png)](https://codepen.io/charleszepp/full/wqqGqP)
 
 **Weather App**
-Uses bascic weather API to display users current weather, utilizing HTML5 geolocation
-![Image](https://swe.umbc.edu/~zepp1/is448/codecamp_images/weather.png)
-Interact [here](https://codepen.io/charleszepp/full/XaWWwO)
+Uses basic weather API to display users current weather, utilizing HTML5 geolocation
+[![Image](https://swe.umbc.edu/~zepp1/is448/codecamp_images/weather.png)](https://codepen.io/charleszepp/full/XaWWwO)
+
+**Random Quote Machine**
+Web page that displays a random quote and gives the user the option to tweet said quote
+[![Image](https://swe.umbc.edu/~zepp1/is448/codecamp_images/random-quote.png)](https://codepen.io/charleszepp/full/YQbmrj)
 
 ```markdown
 Syntax highlighted code block
