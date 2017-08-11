@@ -1,8 +1,9 @@
 ## Welcome to my Project Site
 Informations Systems Student at University of Maryland Baltimore County with a strong passion in Web Development
+I am currently pursuing a Full Stack Web Develoment Cert. at [FreeCodeCamp](https://www.freecodecamp.org/)
 
 ### Current Project
-I am currently pursuing a Full Stack Web Develoment Cert. at [FreeCodeCamp](https://www.freecodecamp.org/)
+
 
 ```markdown
 Syntax highlighted code block
