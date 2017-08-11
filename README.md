@@ -10,8 +10,7 @@ I am currently working on a web app using Twitchtv JSON API
 ### Recently Completed
 **Wikipedia Search App**
 Uses Wikipedia's API to allow a user to search for wiki-pages and view the search results. The user also has the option to view a random wiki-page.
-![Image](https://swe.umbc.edu/~zepp1/is448/codecamp_images/wiki-search.png)
-Interact [here](https://codepen.io/charleszepp/full/wqqGqP)
+[![Image](https://swe.umbc.edu/~zepp1/is448/codecamp_images/wiki-search.png)](https://codepen.io/charleszepp/full/wqqGqP)
 
 **Weather App**
 Uses bascic weather API to display users current weather, utilizing HTML5 geolocation
