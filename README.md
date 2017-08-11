@@ -1,7 +1,8 @@
 # Welcome to my Project Site
-Informations Systems Student at University of Maryland Baltimore County with a strong passion in Web Development
-I am currently pursuing a Full Stack Web Develoment Cert. at [FreeCodeCamp](https://www.freecodecamp.org/) and advancing
-my Java algorithm development through Algorithms 1 at Princeton University through [Coursera](https://www.coursera.org/)
+My name is Charles Zepp,
+I am an Informations Systems student at University of Maryland Baltimore County(UMBC) with a strong passion in Web and Application programming.
+Along with pursuing a B.S. in Information Systems, I am also pursuing a Full Stack Web Develoment Cert. at [FreeCodeCamp](https://www.freecodecamp.org/) and advancing
+my Java algorithm development through _Algorithms 1_ at Princeton University through [Coursera](https://www.coursera.org/).
 ## Projects
 Here you can view some projects I am currenty working on or have completed. My projects through [FreeCodeCamp](https://www.freecodecamp.org/) can be interacted with through my CodePen account [here](https://codepen.io/charleszepp/) and code can/ should be viewed through [here](https://github.com/CharlesZepp/CodeCampProjects)
 ### Currently Working On
@@ -18,6 +19,10 @@ Uses basic weather API to display users current weather, utilizing HTML5 geoloca
 **Random Quote Machine**
 Web page that displays a random quote and gives the user the option to tweet said quote
 [![Image](https://swe.umbc.edu/~zepp1/is448/codecamp_images/random-quote.png)](https://codepen.io/charleszepp/full/YQbmrj)
+
+**UMBC Clicker Game**
+A clicker game that UMBC students can play to compete with friends by increasing their stats through out the various locations in a "World Map". Main purpose of game is to keep students aware of events happening at UMBC.
+[![Image](https://swe.umbc.edu/~zepp1/is448/codecamp_images/umbc-idle-game.png)](https://swe.umbc.edu/~zepp1/is448/project_showcase/login_page.html)
 
 ```markdown
 var coffee = new Coffee();
