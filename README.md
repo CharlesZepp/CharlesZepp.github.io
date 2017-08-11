@@ -7,11 +7,18 @@ my Java algorithm development through Algorithms 1 at Princeton University throu
 2b || !2b
 //that is the question
 
-var coffee;
+var coffee = new Coffee();
 
-if (coffee.isEmpty()){
+while(coding){
+	
+	if (coffee.empty){
+	  
+	  coffee.refill();
 
-	coffee.refill()
+	} else {
+	  
+	  	coffee.drink();
+	}
 }
 ```
 
