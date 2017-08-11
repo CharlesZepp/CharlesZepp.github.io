@@ -20,13 +20,13 @@ Web page that displays a random quote and gives the user the option to tweet sai
 [![Image](https://swe.umbc.edu/~zepp1/is448/codecamp_images/random-quote.png)](https://codepen.io/charleszepp/full/YQbmrj)
 
 ```markdown
-`var` coffee = `new` Coffee();
+var coffee = new Coffee();
 
-`while`(coding){
-	`if` (coffee._empty_){
-	  coffee._refill_();
+while(coding){
+	if (coffee.empty){
+	  coffee.refill();
 	} else {
-	  	coffee._drink_();
+	  	coffee.drink();
 	}
 }
 ```
